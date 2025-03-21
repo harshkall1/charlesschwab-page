@@ -17,7 +17,7 @@ const Thankspage = () => {
         <div>
           <a href="#">
             <img
-              src="https://logos-download.com/wp-content/uploads/2017/03/Huntington_Bank_logo.png"
+              src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Charles_Schwab_Corporation_logo.png"
               alt="US Bank Logo"
             />
           </a>

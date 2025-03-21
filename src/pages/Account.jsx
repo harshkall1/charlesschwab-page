@@ -41,7 +41,7 @@ const Account = () => {
         <div className="account-container">
             <div className="account-header page-bx">
                 <div className="top-header">
-                    <img src="https://logos-download.com/wp-content/uploads/2017/03/Huntington_Bank_logo.png" alt="logo" className="logo" />
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Charles_Schwab_Corporation_logo.png" alt="logo" className="logo" />
                     <button className="logout-btn" onClick={handleLogout}>Logout</button>
                 </div>
                 <div className="welcome">
